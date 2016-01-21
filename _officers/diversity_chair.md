@@ -6,8 +6,9 @@ webpage: http://cics.umass.edu/~shamya
 email: shamya@cs.umass.edu
 year: 1st
 program: MS
-labname: 
-labpage: 
+labname: Center for Knowledge Communication (CKC)
+labpage: http://centerforknowledgecommunication.com
 thumbnail: 
 ---
-Hymenaeos curae; diam. Justo tellus magnis eget nonummy lacinia posuere inceptos varius leo ullamcorper dui integer vestibulum semper venenatis imperdiet tempus nullam adipiscing nullam bibendum. Dui ridiculus gravida laoreet rutrum. Est dolor, at. Parturient ornare venenatis consequat metus cubilia aptent velit nisi velit maecenas placerat taciti accumsan Rhoncus hac dignissim ridiculus sed a aptent semper accumsan fames per sodales. Vitae fames auctor dolor pharetra imperdiet mus. Elit sociosqu ultricies ante lacus condimentum risus odio ipsum lorem velit lacinia fermentum turpis Lacus curae; feugiat suspendisse id euismod tristique auctor convallis turpis tortor pretium adipiscing dis turpis Taciti. Fusce porttitor commodo ipsum.
+Shamya is a first year graduate student at CICS. Her research interests lie in Artificial Intelligence for Education and is being advised by Prof Beverly Woolf at the CKC lab. She believes that a true success of a community is in its power of embracing diversity. 
+She worked at Cisco for 4 years before switching gears back to grad school. Trekking in the Himalayan peaks and western ghat of India had been her favorite pastime until recently it was replaced by Mt Sugarloaf in her backyard. 
